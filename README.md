@@ -41,10 +41,10 @@ Over 20+ years of matches were consolidated into a single dataset.
    - Players where then grouped into eras for stylistic evolution and analysis of trends over time
 
 3. Defining Elite Players:
-   - Elite players were defined using objective criteria:
+   - To avoid subjective selection and era bias, elite players were defined using objective criteria:
    - Must have appeared in the ATP top 5 ranking.
    - Must have won a grandslam within the same decade.
-   - This avoided subjective selection and era bias.
+
 
 4. Analysis:
    - Data was imported into python (pandas dataframes) and analysis included:
@@ -53,10 +53,10 @@ Over 20+ years of matches were consolidated into a single dataset.
    - Performance metric trends over time
 
 5. Visualisation:
-   - Initial plots were developed in Python (seaborn) including:
+   - Initial plots were developed in Python (seaborn) including
    - Heatmap of metric correlation with win percentage
    - Elite Advantage within each metric over time
-   - An interactive Tableau dashboard was built featuring the above plots and additionally:
+   - An interactive Tableau dashboard was built featuring the above plots and additionally
    - Top 5 players for each metric
    - How elite advantage evolved over time
 
