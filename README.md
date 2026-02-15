@@ -4,11 +4,10 @@ This portofolio project explores how men's tennis has evolved over the last 24 y
 - Which performance metrics most strongly correlate with winning matches
 - How elite players differ from the rest of the tour
 - How key playing styles and stats have changed over time
-Using ATP match data, i engineered performance metrics relating to serving, returning and pressure points and then analysed the differences between elite and non-elite players across 3 different decades
+Using ATP match data, i engineered performance metrics relating to serving, returning and pressure points and then analysed the differences between elite and non-elite players across 3 different decades:
 -  2000s
 -  2010s
 -  2020s
-
 The final output is a Tableau dashboard allowing exploration into the importance of each metric and how elite players perform relative to the rest of the tour.
 
 # Data
