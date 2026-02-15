@@ -54,13 +54,13 @@ This avoided subjective selection and era bias.
    - Performance metric trends over time
 
 5. Visualisation
-   Initial plots were developed in Python (seaborn) including
-  - Heatmap of metric correlation with win percentage
-  - Elite Advantage within each metric over time
+   - Initial plots were developed in Python (seaborn) including
+   - Heatmap of metric correlation with win percentage
+   - Elite Advantage within each metric over time
 
-   An interactive Tableau dashboard was built featuring the above plots and additionally
-  - Top 5 players for each metric
-  - How elite advantage evolved over time
+   - An interactive Tableau dashboard was built featuring the above plots and additionally
+   - Top 5 players for each metric
+   - How elite advantage evolved over time
 
 # Tech Stack 
 MySQL - data storage and transformation
