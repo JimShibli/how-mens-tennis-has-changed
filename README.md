@@ -21,7 +21,7 @@ https://github.com/JeffSackmann/tennis_atp
 
 The datasets are public available and widely used for tennis analytics research.
 
-Database Design
+Database Design:
    - All data was imported into a MySQL database and combined into structured analytical tables
    - player_match_features - engineered match-level metrics
    - player_era_summary - aggregated player performance by decade/era
