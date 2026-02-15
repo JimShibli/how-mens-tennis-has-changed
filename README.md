@@ -69,7 +69,7 @@ Tableau Public - interactive visualisation
 GitHub - portfolio presentation
 
 # Key Insights
-- Returning quality and ability to win points behind the 2nd serve are where elites excel most head of the rest of the tour. Additionally these traits correlate strongly with win percentage.
+- Returning quality and ability to win points behind their 2nd serve are where elites excel the most ahead of the rest of the tour. These traits correlate strongly with win percentage across all eras.
 - Elite advantage in serving metrics has declined over the years suggesting big serving alone is no longer the differentiating factor for determining the elite champions.
 - Excelling in a single metric is not enough to win matches or to be considered elite.
 
