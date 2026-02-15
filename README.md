@@ -4,6 +4,7 @@ This portofolio project explores how men's tennis has evolved over the last 24 y
 - Which performance metrics most strongly correlate with winning matches
 - How elite players differ from the rest of the tour
 - How key playing styles and stats have changed over time
+
 Using ATP match data, i engineered performance metrics relating to serving, returning and pressure points and then analysed the differences between elite and non-elite players across 3 different decades:
 -  2000s
 -  2010s
@@ -43,6 +44,7 @@ Over 20+ years of matches were consolidated into a single dataset.
 Elite players were defined using objective criteria:
    - Must have appeared in the ATP top 5 ranking.
    - Must have won a grandslam within the same decade.
+
 This avoided subjective selection and era bias.
 
 4. Analysis
@@ -55,6 +57,7 @@ Data was imported into python (pandas dataframes) and analysis included:
 Initial plots were developed in Python (seaborn) including
   - Heatmap of metric correlation with win percentage
   - Elite Advantage within each metric over time
+
 An interactive Tableau dashboard was built featuring the above plots and additionally
   - Top 5 players for each metric
   - How elite advantage evolved over time
