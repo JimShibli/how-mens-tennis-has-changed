@@ -30,35 +30,33 @@ All data was imported into a MySQL database and combined into structured analyti
 Over 20+ years of matches were consolidated into a single dataset.
 
 # Methods
-1. Data Engineering
+1. Data Engineering:
    - Imported raw CSVs into MySQL
    - Created relevant tables in database
    - Cleaned and standardised data
 
-2. Feature Engineering
+2. Feature Engineering:
    - Normalised metrics using rate-based calculations to allow fair comparison across eras and match lengths
    - Eg. Ace rate = Aces / Services Games
    - Players where then grouped into eras for stylistic evolution and analysis of trends over time
 
-3. Defining Elite Players
+3. Defining Elite Players:
    - Elite players were defined using objective criteria:
    - Must have appeared in the ATP top 5 ranking.
    - Must have won a grandslam within the same decade.
+   - This avoided subjective selection and era bias.
 
-This avoided subjective selection and era bias.
-
-4. Analysis
+4. Analysis:
    - Data was imported into python (pandas dataframes) and analysis included:
    - Calculating performance metric correlation with win percentage over each decade
    - Comparing elite performance with non elite players within each metric to determine 'Elite Advantage'
    - Performance metric trends over time
 
-5. Visualisation
-   - Initial plots were developed in Python (seaborn) including
+5. Visualisation:
+   - Initial plots were developed in Python (seaborn) including:
    - Heatmap of metric correlation with win percentage
    - Elite Advantage within each metric over time
-
-   - An interactive Tableau dashboard was built featuring the above plots and additionally
+   - An interactive Tableau dashboard was built featuring the above plots and additionally:
    - Top 5 players for each metric
    - How elite advantage evolved over time
 
