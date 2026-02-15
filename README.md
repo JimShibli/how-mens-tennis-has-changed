@@ -53,10 +53,9 @@ Over 20+ years of matches were consolidated into a single dataset.
    - Performance metric trends over time
 
 5. Visualisation:
-   - Initial plots were developed in Python (seaborn) including
+   - Initial plots were developed in Python (seaborn) and then a dashboard was built in Tableau, including:
    - Heatmap of metric correlation with win percentage
    - Elite Advantage within each metric over time
-   - An interactive Tableau dashboard was built featuring the above plots and additionally
    - Top 5 players for each metric
    - How elite advantage evolved over time
 
@@ -72,7 +71,7 @@ GitHub - portfolio presentation
 # Key Insights
 - Returning quality and ability to win points behind the 2nd serve are where elites excel most head of the rest of the tour. Additionally these traits correlate strongly with win percentage.
 - Elite advantage in serving metrics has declined over the years suggesting big serving alone is no longer the differentiating factor for determining the elite champions.
-- Excelling in a single metric is not enough to win matches or be considered elite.
+- Excelling in a single metric is not enough to win matches or to be considered elite.
 
 # Privacy 
 All data used in this project was obtained through publicly available match records.
