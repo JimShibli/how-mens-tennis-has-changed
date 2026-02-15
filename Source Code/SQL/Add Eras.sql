@@ -1,0 +1,9 @@
+ALTER TABLE player_matches
+ADD COLUMN era VARCHAR(10);
+
+UPDATE player_matches
+SET era = CASE
+    WHEN year BETWEEN 2000 AND 2009 THEN '2000s'
+    WHEN year BETWEEN 2010 AND 2019 THEN '2010s'
+    ELSE '2020s'
+END;
