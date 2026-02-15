@@ -8,6 +8,7 @@ Using ATP match data, i engineered performance metrics relating to serving, retu
 -  2000s
 -  2010s
 -  2020s
+
 The final output is a Tableau dashboard allowing exploration into the importance of each metric and how elite players perform relative to the rest of the tour.
 
 # Data
@@ -24,6 +25,7 @@ All data was imported into a MySQL database and combined into structured analyti
 - player_match_features - engineered match-level metrics
 - player_era_summary - aggregated player performance by decade/era
 - tennis_metric_correlations - performance metric correlation with win percentage by era
+
 Over 20+ years of matches were consolidated into a single dataset.
 
 # Methods
@@ -59,8 +61,11 @@ An interactive Tableau dashboard was built featuring the above plots and additio
 
 # Tech Stack 
 MySQL - data storage and transformation
+
 Python - pandas, SQLalchemy, seaborn, NumPy for analysis and visualisatoin
+
 Tableau Public - interactive visualisation
+
 GitHub - portfolio presentation
 
 # Key Insights
