@@ -43,7 +43,7 @@ Over 20+ years of matches were consolidated into a single dataset.
 3. Defining Elite Players:
    - To avoid subjective selection and era bias, elite players were defined using objective criteria:
    - Must have appeared in the ATP top 5 ranking.
-   - Must have won a grandslam within the same decade.
+   - Must have won a Grand Slam title within the same decade.
 
 
 4. Analysis:
