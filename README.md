@@ -68,9 +68,13 @@ Tableau Public - interactive visualisation
 GitHub - portfolio presentation
 
 # Key Insights
-- Returning quality and ability to win points behind their 2nd serve are where elite players excel the most ahead of the rest of the tour. These traits correlate strongly with win percentage across all eras.
+- Returning quality and ability to win points behind the 2nd serve are where elite players excel the most ahead of the rest of the tour. These traits correlate strongly with win percentage across all eras.
+   - Rafael Nadal and Novak Djokovic have the highest break rate over the last 20 years, evidently a large contributing factor to their prolonged success
+   - Roger Federer has the highest percentage of points won behind his second serve, followed closely by the remaining members of the big 4.     
 - Elite advantage in serving metrics has declined over the years suggesting big serving alone is no longer the differentiating factor for determining the elite champions.
+   - As of the 2020s, elite players are hitting fewer aces per game compared to non-elite players, suggesting a decreasing importance of hitting a high volume of aces.    
 - Excelling in a single metric is not enough to win matches or to be considered an elite player.
+   - For example, big servers like John Isner, top the charts in Ace Rate yet fail to be classed as elite. 
 
 # Privacy 
 All data used in this project was obtained through publicly available match records.
